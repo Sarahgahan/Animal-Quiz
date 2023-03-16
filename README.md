@@ -1,2 +1,2 @@
-# Animal-Quiz
+# MolecularBiology-Quiz
 Quiz Game Project
